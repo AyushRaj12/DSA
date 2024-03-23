@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubblesort/Bubblesort.iml" filepath="$PROJECT_DIR$/Bubblesort/Bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" filepath="$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAarray/DSAarray.iml" filepath="$PROJECT_DIR$/DSAarray/DSAarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maxheap/Maxheap.iml" filepath="$PROJECT_DIR$/Maxheap/Maxheap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximumSumsubarray/MaximumSumsubarray.iml" filepath="$PROJECT_DIR$/MaximumSumsubarray/MaximumSumsubarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortedarray/MergeSortedarray.iml" filepath="$PROJECT_DIR$/MergeSortedarray/MergeSortedarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mergelinkedlist1/Mergelinkedlist1.iml" filepath="$PROJECT_DIR$/Mergelinkedlist1/Mergelinkedlist1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min max form/Min max form.iml" filepath="$PROJECT_DIR$/Min max form/Min max form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinArray/MinArray.iml" filepath="$PROJECT_DIR$/MinArray/MinArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secondmax/Secondmax.iml" filepath="$PROJECT_DIR$/Secondmax/Secondmax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiralForm/SpiralForm.iml" filepath="$PROJECT_DIR$/SpiralForm/SpiralForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subsequence/Subsequence.iml" filepath="$PROJECT_DIR$/Subsequence/Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZeroesEnd/ZeroesEnd.iml" filepath="$PROJECT_DIR$/ZeroesEnd/ZeroesEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longestSubstring/longestSubstring.iml" filepath="$PROJECT_DIR$/longestSubstring/longestSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxSlidingWindow/maxSlidingWindow.iml" filepath="$PROJECT_DIR$/maxSlidingWindow/maxSlidingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxSumSlidingWindow/maxSumSlidingWindow.iml" filepath="$PROJECT_DIR$/maxSumSlidingWindow/maxSumSlidingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxsumslidingOn/maxsumslidingOn.iml" filepath="$PROJECT_DIR$/maxsumslidingOn/maxsumslidingOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nonRepeatingCharacter/nonRepeatingCharacter.iml" filepath="$PROJECT_DIR$/nonRepeatingCharacter/nonRepeatingCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productOfArray/productOfArray.iml" filepath="$PROJECT_DIR$/productOfArray/productOfArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/removeVowels/removeVowels.iml" filepath="$PROJECT_DIR$/removeVowels/removeVowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverseAnInteger/reverseAnInteger.iml" filepath="$PROJECT_DIR$/reverseAnInteger/reverseAnInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchInSortedMatrix/searchInSortedMatrix.iml" filepath="$PROJECT_DIR$/searchInSortedMatrix/searchInSortedMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort 0s 1s 2s/sort 0s 1s 2s.iml" filepath="$PROJECT_DIR$/sort 0s 1s 2s/sort 0s 1s 2s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/squareofsrotedarray/squareofsrotedarray.iml" filepath="$PROJECT_DIR$/squareofsrotedarray/squareofsrotedarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threeSumProblem/threeSumProblem.iml" filepath="$PROJECT_DIR$/threeSumProblem/threeSumProblem.iml" />
+    </modules>
+  </component>
+</project>
